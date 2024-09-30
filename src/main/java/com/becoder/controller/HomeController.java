@@ -2,7 +2,7 @@ package com.becoder.controller;
 
 public class HomeController {
 
-	public String navbarPage()
+	public String navbar()
 	{
 		return "navbar";
 	}
